@@ -1,0 +1,22 @@
+# Online Event Registration System - Backend
+
+## Overview
+This is the backend of the Online Event Registration System. It provides RESTful APIs to manage users, events, registrations, and payments. The backend is designed for scalability, reliability, and easy integration with the frontend.
+
+## Features
+- User registration and authentication
+- Event creation, update, and deletion (Admin only)
+- Event listing and search
+- Event registration for users
+- Payment processing integration (Stripe/PayPal)
+- Automated email confirmations
+- Admin dashboard endpoints
+
+## Technology Stack
+- **Backend Framework**: Node.js with Express / Django / Laravel (choose your stack)
+- **Database**: MySQL / PostgreSQL
+- **Authentication**: JWT-based authentication
+- **Payment Gateway**: Stripe / PayPal
+- **Email Service**: Nodemailer / SMTP / Third-party email API
+
+## Project Structure
